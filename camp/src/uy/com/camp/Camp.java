@@ -4,5 +4,9 @@ public class Camp {
 	public static void main(String[] args) {
 		System.out.println("Welcome to Camp!");
 		System.out.println("Welcome to Camp!");
+		System.out.println("Welcome to Camp!");
+		System.out.println("Welcome to Camp!");
+		System.out.println("Welcome to Camp!");
+		System.out.println("Welcome to Camp!");
 	}
 }
