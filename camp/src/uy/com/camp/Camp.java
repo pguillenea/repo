@@ -8,8 +8,5 @@ public class Camp {
 		System.out.println("Welcome to Camp!");
 		System.out.println("Welcome to Camp!");
 		System.out.println("Welcome to Camp!");
-		System.out.println("Welcome to Camp!");
-		System.out.println("Welcome to Camp!");
-		System.out.println("Welcome to Camp!");
 	}
 }
